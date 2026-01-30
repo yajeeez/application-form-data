@@ -196,7 +196,7 @@ body {
 .mobile-menu {
   display: none;
   position: fixed;
-  top: 6rem;
+  top: 5.5rem;
   left: 50%;
   transform: translateX(-50%);
   width: calc(100% - 2rem);
